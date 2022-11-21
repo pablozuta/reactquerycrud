@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "laptop",
+      "description": "laptop gaming",
+      "price": 1000,
+      "inStock": true
+    },
+    {
+      "name": "razor 45-grx",
+      "description": "gaming headphones",
+      "price": "135",
+      "inStock": true,
+      "id": 2
+    },
+    {
+      "name": "philips tr400",
+      "description": "gaming keyboard",
+      "price": "60",
+      "inStock": true,
+      "id": 3
+    },
+    {
+      "name": "philips tr700",
+      "description": "gaming keyboard",
+      "price": "80",
+      "inStock": true,
+      "id": 4
+    }
+  ]
+}
