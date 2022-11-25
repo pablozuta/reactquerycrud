@@ -1,5 +1,39 @@
 body{
   background-color: black;
-  color: gray;
+  color: palevioletred;
   font-size: 1.5rem;
+}
+
+.search{
+  color: coral;
+  max-width: 30rem;
+  height: 22rem;
+  padding: 1%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-top: 1rem;
+  border: 2px solid coral;
+  border-radius: 12px;
+}
+
+.search > h3 {
+  border: 1px solid coral;
+  padding: 2%;
+  color: wheat;
+  border-radius: 12px;
+}
+
+.search > button {
+  font-size: 1.5rem;
+  background-color: wheat;
+  padding: 2%;
+  padding-inline: 4%;
+}
+.search > button:hover {
+  cursor: pointer;
+  background-color: coral;
+
 }

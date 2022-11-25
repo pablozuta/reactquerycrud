@@ -18,15 +18,8 @@
       "name": "philips tr400",
       "description": "gaming keyboard",
       "price": "60",
-      "inStock": true,
+      "inStock": false,
       "id": 3
-    },
-    {
-      "name": "philips tr700",
-      "description": "gaming keyboard",
-      "price": "80",
-      "inStock": true,
-      "id": 4
     }
   ]
 }
